@@ -1,1 +1,1 @@
-# banners-rotate
+# Banner rotation service
